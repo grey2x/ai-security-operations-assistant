@@ -1,7 +1,10 @@
 from flask import Flask
+from app.services.database import init_db
 
 def create_app():
     app = Flask(__name__)
+
+    init_db()
 
     from app.routes import main
     app.register_blueprint(main)

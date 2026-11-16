@@ -36,6 +36,22 @@
                 <p id="incidents">0</p>
             </div>
         </section>
+        
+        <section class="alerts-section">
+            <h2>Recent Security Alerts</h2>
+
+            <div id="alerts-container">
+                <p>Loading security alerts...</p>
+            </div>
+        </section>
+        
+        <section class="incidents-section">
+            <h2>Recorded Incidents</h2>
+            <div id="incidents-container">
+                <p>Loading incidents...</p>
+            </div>
+        </section>
+
     </main>
 
     <script src="{{ url_for('static', filename='js/main.js') }}"></script>

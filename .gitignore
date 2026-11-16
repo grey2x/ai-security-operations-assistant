@@ -6,3 +6,7 @@ __pycache__/
 instance/
 .DS_Store
 .vscode/
+# Local database
+data/incidents.db
+# Temporary API diagnostic script
+test_gemini.py

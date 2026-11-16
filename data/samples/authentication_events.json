@@ -1,0 +1,57 @@
+
+[
+  {
+    "event_id": 4625,
+    "timestamp": "2026-11-14T09:00:00",
+    "computer": "WORKSTATION-01",
+    "username": "admin",
+    "source_ip": "192.0.2.15",
+    "logon_type": 3,
+    "status": "0xC000006D"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-11-14T09:01:00",
+    "computer": "WORKSTATION-01",
+    "username": "admin",
+    "source_ip": "192.0.2.15",
+    "logon_type": 3,
+    "status": "0xC000006D"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-11-14T09:02:00",
+    "computer": "WORKSTATION-01",
+    "username": "admin",
+    "source_ip": "192.0.2.15",
+    "logon_type": 3,
+    "status": "0xC000006D"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-11-14T09:03:00",
+    "computer": "WORKSTATION-01",
+    "username": "admin",
+    "source_ip": "192.0.2.15",
+    "logon_type": 3,
+    "status": "0xC000006D"
+  },
+  {
+    "event_id": 4625,
+    "timestamp": "2026-11-14T09:04:00",
+    "computer": "WORKSTATION-01",
+    "username": "admin",
+    "source_ip": "192.0.2.15",
+    "logon_type": 3,
+    "status": "0xC000006D"
+  },
+  {
+    "event_id": 4624,
+    "timestamp": "2026-11-14T09:06:00",
+    "computer": "WORKSTATION-01",
+    "username": "analyst",
+    "source_ip": "192.0.2.20",
+    "logon_type": 2,
+    "status": "SUCCESS"
+  }
+]
